@@ -17,7 +17,7 @@
 <p>Yeni üyelere <strong>%150 hoşgeldin bonusu</strong> ve her kayıpta <strong>%20 kayıp iadesi</strong>!</p>
 
 <h3>📱 Mobilde Tutku</h3>
-<p>Madridbet mobil uygulamasıyla heyecan her an cebinizde!</p>
+<p>.Madridbet mobil uygulamasıyla heyecan her an cebinizde!</p>
 
 <p>⚽ <strong>Madridbet'e katılın, tutkunuzu kazanca çevirin!</strong></p>
 
